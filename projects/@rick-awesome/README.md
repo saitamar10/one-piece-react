@@ -3,7 +3,7 @@
 - Rick [ homepage ]
 
   - [ ] Introduction
-  - [ ] Albums
+  - [x] Albums
   - [ ] Music
   - [ ] Technical notes
 
@@ -18,8 +18,7 @@
 
     - [x] [Calculator](https://codepen.io/rickyeckhardt/pen/eYNzRQJ)
     - [x] [Typographic Clock](https://codepen.io/graphilla/pen/zEZKpN)
-    - [ ] [Commands] 📦 mine
-    - [ ] [Countdown]
+    - [x] [Countdown](https://codepen.io/pbutcher/pen/dzvMzZ)
     - [ ] [Cube](https://codepen.io/bsehovac/pen/EMyWVv)
     - [ ] [Equalizer](https://codepen.io/kunukn/pen/obJEJE)
     - [x] [Navigation](https://codepen.io/katydecorah/pen/nYLbEN)
