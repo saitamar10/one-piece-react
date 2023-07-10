@@ -5,25 +5,25 @@ const RainbowText = () => {
     <div className="rainbow absolute">
       <ul className="c-rainbow">
         <li className="c-rainbow__layer c-rainbow__layer--white">
-          Rick-React-UI
+          Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--orange">
-          Rick-React-UI
+         Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--red">
-          Rick-React-UI
+          Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--violet">
-          Rick-React-UI
+          Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--blue">
-          Rick-React-UI
+          Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--green">
-          Rick-React-UI
+         Saitama - R10
         </li>
         <li className="c-rainbow__layer c-rainbow__layer--yellow">
-          Rick-React-UI
+          Saitama - R10
         </li>
       </ul>
     </div>
