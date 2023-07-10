@@ -29,12 +29,12 @@ const Home: React.FC = () => {
     return (
       <div className="flex items-center p-4 pb-0 cursor-pointer mt-4">
         <div>
-          <Avatar className="bg-yellow-400">RZ</Avatar>
+          <Avatar className="bg-yellow-400">OPM</Avatar>
         </div>
         <div className="ml-4 flex-auto">
-          <div className="font-medium">Rick Zhou</div>
+          <div className="font-medium">Saitama</div>
           <div className="mt-1 text-slate-500 text-xs">
-            github.com/rick-chou
+            github.com/saitamar10
           </div>
         </div>
       </div>
